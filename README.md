@@ -15,16 +15,17 @@ A beautifully dark, visually soothing, and vibrant color scheme for the [Kitty T
 1. **Clone or download** this repo:
    ```bash
    git clone https://github.com/arozx/kitty-tokyo-night-theme.git
+   ```
+2. Include the theme in your Kitty config: In your kitty.conf (usually at ~/.config/kitty/kitty.conf), add:
+   ```bash
+   include ./path/to/tokyo-night.conf
+   ```
 
-    Include the theme in your Kitty config: In your kitty.conf (usually at ~/.config/kitty/kitty.conf), add:
+3. Restart Kitty
 
-    include ./path/to/tokyo-night.conf
+---
 
-    Reload Kitty:
+## 📄 License
 
-        Restart Kitty
-
-📄 License
-
-This theme is open-sourced under the ![BSD 3 Clause License](./LICENCE).
+This theme is open-sourced under the ![BSD 3 Clause License](LICENSE).
 
