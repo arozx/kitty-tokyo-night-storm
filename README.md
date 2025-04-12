@@ -14,11 +14,11 @@ A beautifully dark, visually soothing, and vibrant color scheme for the [Kitty T
 
 1. **Clone or download** this repo:
    ```bash
-   git clone https://github.com/arozx/kitty-tokyo-night-theme.git
+   git clone https://github.com/arozx/kitty-tokyo-night-storm.git
    ```
 2. Include the theme in your Kitty config: In your kitty.conf (usually at ~/.config/kitty/kitty.conf), add:
    ```bash
-   include ./path/to/tokyo-night.conf
+   include ./path/to/kitty-tokyo-night-storm.conf
    ```
 
 3. Restart Kitty
